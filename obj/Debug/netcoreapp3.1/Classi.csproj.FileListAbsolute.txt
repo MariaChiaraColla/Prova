@@ -1,0 +1,13 @@
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\bin\Debug\netcoreapp3.1\Classi.exe
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\bin\Debug\netcoreapp3.1\Classi.deps.json
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\bin\Debug\netcoreapp3.1\Classi.runtimeconfig.json
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\bin\Debug\netcoreapp3.1\Classi.runtimeconfig.dev.json
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\bin\Debug\netcoreapp3.1\Classi.dll
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\bin\Debug\netcoreapp3.1\Classi.pdb
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\obj\Debug\netcoreapp3.1\Classi.csprojAssemblyReference.cache
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\obj\Debug\netcoreapp3.1\Classi.AssemblyInfoInputs.cache
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\obj\Debug\netcoreapp3.1\Classi.AssemblyInfo.cs
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\obj\Debug\netcoreapp3.1\Classi.csproj.CoreCompileInputs.cache
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\obj\Debug\netcoreapp3.1\Classi.dll
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\obj\Debug\netcoreapp3.1\Classi.pdb
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\Classi\Classi\obj\Debug\netcoreapp3.1\Classi.genruntimeconfig.cache
